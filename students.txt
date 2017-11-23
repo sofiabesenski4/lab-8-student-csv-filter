@@ -1,0 +1,6 @@
+Matt,Burney,27,CompSci,Geog,Medi
+Laura,Pushy,21,Math,Geog
+Ryan,Hash,23,Music,Math
+Bob,Pulsner,26,CompSci,Engr,Eng,Math
+Bob,Smith,29,Engr
+Ryan,Hash,22,Music,Psyc
